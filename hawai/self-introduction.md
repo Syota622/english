@@ -11,3 +11,8 @@
 # When you can't hear
 - Could you speak a little more slowly?（もっとゆっくり話してください）
 - What do you mean?（どういう意味ですか？）
+- Could you write it in the chat box?（チャットボックスに書いてくれませんか？）
+
+# At the end of the lesson 
+- Thank you for your lesson today.（今日はありがとうございました。）
+- I had a really good time.（とても楽しかったです。）
