@@ -1,5 +1,3 @@
-ハワイでの素敵な旅行の準備をされていますね！具体的な場所やアクティビティに関する英語フレーズを追加いたします。
-
 ### ホテル：シェラトン ワイキキ ビーチリゾート
 - "I have a reservation at Sheraton Waikiki Beach Resort." (シェラトン ワイキキ ビーチリゾートに予約をしています)
 - "Which way to Sheraton Waikiki Beach Resort?" (シェラトン ワイキキ ビーチリゾートはどちらですか)
@@ -35,5 +33,3 @@
 - "Is there a doctor/pharmacy nearby?" (近くに医者/薬局はありますか)
 - "We missed our tour bus." (ツアーバスに乗り遅れました)
 - "We need to change our reservation." (予約を変更する必要があります)
-
-これらのフレーズを使って、ハワイでの素敵な結婚式とハネムーンをお楽しみください！事前に少し練習しておくと自信がつきますよ。また、スマートフォンの翻訳アプリも緊急時には役立ちます。おめでとうございます！
