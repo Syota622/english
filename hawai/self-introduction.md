@@ -1,18 +1,28 @@
 # self-introduction
-- Hi, nice to meet you. My name is shota.（初めまして、ショウタです。）
-- This is my first lesson. I'm so nervous.（初めての英会話で緊張しています。）
-- I'm still a beginner, so please speak slowly.（まだ初心者です。ゆっくり話してください。）
+- Hi, nice to meet you. My name is shota.: 初めまして、ショウタです。
+- This is my first lesson. I'm so nervous.: 初めての英会話で緊張しています。
+- I'm still a beginner, so please speak slowly.: まだ初心者です。ゆっくり話してください。
 
 # trouble
-- I can't hear you.（音声が聞こえません）
-- Your audio is not very clear.（音声があまり聞き取りにくいです）
-- Your video is not very clear.（映像があまり聞き取りにくいです）
+- I can't hear you.: 音声が聞こえません
+- Your audio is not very clear.: 音声があまり聞き取りにくいです
+- Your video is not very clear.: 映像があまり聞き取りにくいです
 
 # When you can't hear
-- Could you speak a little more slowly?（もっとゆっくり話してください）
-- What do you mean?（どういう意味ですか？）
-- Could you write it in the chat box?（チャットボックスに書いてくれませんか？）
+- Could you speak a little more slowly?: もっとゆっくり話してください
+- What do you mean?: どういう意味ですか？
+- Could you write it in the chat box?: チャットボックスに書いてくれませんか？
 
 # At the end of the lesson 
-- Thank you for your lesson today.（今日はありがとうございました。）
-- I had a really good time.（とても楽しかったです。）
+- Thank you for your lesson today.: 今日はありがとうございました。
+- I had a really good time.: とても楽しかったです。
+
+# greetings
+- teacher: Good morning: おはよう
+- me: Good morning, Nice to meet you.: おはよう！初めまして！
+
+- teacher: Nice to meet you: 初めまして
+- me: Nice to meet you, too.: 初めまして！
+
+- teacher: Hello! How are you?: こんにちは！お元気ですか？
+- me: I'm good. How about you?: 元気です。あなたは？
