@@ -22,7 +22,7 @@
 
 - teacher: I'm Lorraine. You can call me Rain. : 私はロレインです。レインと呼んでください。
 - me: Nice to meet you, Rain. I'm Shota.: 初めまして、レインさん。私はショウタです。
-- me: Hello Rain. My name is Shota.: こんにちは、レインさん。私はショウタです。
+- me: Hello Rain. My name is Shota. You can call me Shota.: こんにちは、レインさん。私はショウタです。ショウタと呼んでください。
 
 - teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
 - me: Yes, I can.: はい、聞こえます。
