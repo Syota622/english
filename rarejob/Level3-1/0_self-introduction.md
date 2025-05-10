@@ -24,9 +24,6 @@
 - me: Nice to meet you, Rain. I'm Shota.: 初めまして、レインさん。私はショウタです。
 - me: Hello Rain. My name is Shota. You can call me Shota.: こんにちは、レインさん。私はショウタです。ショウタと呼んでください。
 
-- teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
-- me: Yes, I can.: はい、聞こえます。
-
 # trouble
 - I can't hear you.: 音声が聞こえません
 - Your audio is not very clear.: 音声があまり聞き取りにくいです
@@ -35,3 +32,11 @@
 # At the end of the lesson 
 - Thank you for your lesson today.: 今日はありがとうございました。
 - I had a really good time.: とても楽しかったです。
+
+# other
+- teacher: Any questions?: 質問はありますか？
+- me: Yes, I do. How do I say [単語] in English?: 英語で[単語]をどうやって言うの？
+- me: No, No, I don't have any questions. Thank you.: いいえ、質問はありません。ありがとうございました。
+
+- teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
+- me: Yes, I can.: はい、聞こえます。
