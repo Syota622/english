@@ -40,3 +40,6 @@
 
 - teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
 - me: Yes, I can.: はい、聞こえます。
+
+- Please say it again.: もう一度言ってください。
+- Please wait for a moment.: 少し待ってください。
