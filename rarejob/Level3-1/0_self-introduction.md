@@ -1,14 +1,12 @@
 # self-introduction
 - Hi, nice to meet you. My name is shota.: 初めまして、ショウタです。
-- This is my first lesson. I'm so nervous.: 初めての英会話で緊張しています。
-- I'm still a beginner, so please speak slowly.: まだ初心者です。ゆっくり話してください。
-- I'm taking my third lesson today.: 今日で3回目の講座です。
 
 # When you can't hear
 - Could you speak a little more slowly?: もっとゆっくり話してください
 - What do you mean?: どういう意味ですか？
 - Could you write it in the chat box?: チャットボックスに書いてくれませんか？
 - Could you repeat that, please?(もう一度言ってください)
+- Please say it again.: もう一度言ってください。
 
 # greetings
 - teacher: Good morning: おはよう
@@ -36,10 +34,9 @@
 # other
 - teacher: Any questions?: 質問はありますか？
 - me: Yes, I do. How do I say [単語] in English?: 英語で[単語]をどうやって言うの？
-- me: No, No, I don't have any questions. Thank you.: いいえ、質問はありません。ありがとうございました。
+- me: No, I don't have any questions. Thank you.: いいえ、質問はありません。ありがとうございました。
 
 - teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
 - me: Yes, I can.: はい、聞こえます。
 
-- Please say it again.: もう一度言ってください。
 - Please wait for a moment.: 少し待ってください。
