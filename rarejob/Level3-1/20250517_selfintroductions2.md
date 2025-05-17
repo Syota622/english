@@ -1,5 +1,3 @@
-はい、承知いたしました。以下に文字起こしと日本語訳、時間を記載します。
-
 | 時間        | 発言者   | 英語                                                                 | 日本語訳                                                                 |
 | :---------- | :------- | :------------------------------------------------------------------- | :----------------------------------------------------------------------- |
 | 00:00:00    | Lorraine | Hello, good evening.                                                 | ハロー、こんばんは。                                                       |
@@ -256,4 +254,24 @@
 | 22:19:82    | Lorraine | All right. Now, let's do dialogue two. Same thing, I'll read the tutor parts, read the student's parts. Let's start. Good morning. | よし。では、対話2をやりましょう。同じように、私がチューターの部分を読み、あなたが生徒の部分を読んでください。始めましょう。おはようございます。 |
 | 22:34:46    | Shota    | Good morning.                                                        | おはようございます。                                                             |
 | 22:35:97    | Lorraine | I'm Legar G. What's your name?                                       | 私はレガーGです。あなたのお名前は何ですか？                                         |
-| 22:39:45    | Shota    | My name is Shota.                                                    | 私の名前はショウタ
+| 22:39:45    | Shota    | My name is Shota.                                                    | 私の名前はショウタです。                                                         |
+| 22:41:82    | Lorraine | Nice to meet you, Shota-san.                                         | はじめまして、ショウタさん。                                                       |
+| 22:44:34    | Shota    | Nice to meet you too.                                                | こちらこそはじめまして。                                                           |
+| 22:46:56    | Lorraine | So, how are you today?                                               | では、今日はお元気ですか？                                                         |
+| 22:49:77    | Shota    | Not bad. How are you?                                                | 悪くないです。あなたはどうですか？                                                     |
+| 22:52:52    | Lorraine | I'm good. Thanks. So, Shota-san, tell me about yourself.             | 元気です。ありがとう。では、ショウタさん、あなた自身について教えてください。                       |
+| 22:58:60    | Shota    | Well, I'm a student. I live with my parents. We live in Osaka.       | さて、私は学生です。私は両親と住んでいます。私たちは大阪に住んでいます。                           |
+| 23:07:47    | Lorraine | Do you have any brothers or sisters?                                 | 兄弟姉妹はいますか？                                                             |
+| 23:12:75    | Shota    | No, I'm an only child.                                               | いいえ、私は一人っ子です。                                                         |
+| 23:16:40    | Lorraine | Okay. I'm an only child. Good. We will stop here. We will not do, uh, number three practice because we don't have enough time to complete the practice part. Okay? So, on your next lesson, you can start from, uh, practice. All right? Do you have any questions? | オーケー。私は一人っ子です。良いですね。ここで止めます。ええと、3番の練習はしません。練習の部分を完成させるのに十分な時間がないからです。いいですか？ですから、次のレッスンでは、ええと、練習から始めることができます。いいですか？何か質問はありますか？ |
+| 23:45:20    | Shota    | Uh, no questions.                                                    | ええと、質問はありません。                                                         |
+| 23:47:24    | Lorraine | All right. Now, we still have maybe a minute. What will you do after this lesson? | よし。では、まだ1分くらいあります。このレッスンの後、何をしますか？                             |
+| 23:57:36    | Shota    | Uh, after, uh, after lesson.                                         | ええと、後、ええと、レッスンの後。                                                   |
+| 24:04:75    | Lorraine | Yeah, what are you doing after this lesson? Are you going to eat dinner? Are you going to sleep? Are you going to watch TV? | ええ、このレッスンの後、何をしますか？夕食を食べますか？寝ますか？テレビを見ますか？                 |
+| 24:20:43    | Shota    | Uh, uh, sorry, uh, chat box.                                         | ええと、ええと、すみません、ええと、チャットボックス。                                       |
+| 24:26:37    | Lorraine | Okay. What are you going to do after this lesson?                    | オーケー。このレッスンの後、何をしますか？                                           |
+| 24:34:65    | Shota    | Uh, uh, after, after lesson.                                         | ええと、ええと、後、レッスンの後。                                                   |
+| 24:41:9     | Lorraine | Okay. Well, we will end because it's already time. So, practice some more so you can learn more expressions. Okay? | オーケー。さて、もう時間なので終わりにします。ですから、もっと表現を学べるように、もっと練習してください。いいですか？ |
+| 24:51:48    | Shota    | Okay.                                                                | はい。                                                                   |
+| 24:52:34    | Lorraine | And have a good night. Thank you for practicing with me.             | そして、おやすみなさい。私と練習してくれてありがとう。                                     |
+| 24:55:83    | Shota    | Thank you.                                                           | ありがとうございます。                                                           |
