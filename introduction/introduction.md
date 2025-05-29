@@ -1,5 +1,9 @@
 <!-- 英語で翻訳して -->
 【初めましての自己紹介（Introducing myself for the first time）】
+- 私の自己紹介です
+  - This is my introduction.
+- あなたのことを教えてください
+  - Tell me about yourself.
 
 - 私の名前はShotaです
   - My name is Shota.
