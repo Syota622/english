@@ -28,7 +28,7 @@
 - Your video is not very clear.: 映像があまり聞き取りにくいです
 
 # At the end of the lesson 
-- Thank you for your lesson today.: 本日のレッスンありがとうございました。
+- Thank you for today's lesson.: 本日のレッスンありがとうございました。
 - I had a really good time.: とても楽しかったです。
 
 # other
