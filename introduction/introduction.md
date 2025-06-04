@@ -15,8 +15,10 @@
   - My job is an IT Engineer, and I work on infrastructure related work using AWS.
 - 私の趣味は、NetFlixを見ることと、ジョギングです。
   - My hobby is watching Netflix and running.
-- よろしくお願いします
-  - Nice to meet you.
+- 私は妻と一緒に住んでます。
+  - I live with my wife.
+- 私は弟と妹がいます。私は長男です。
+  - I have a younger brother and a younger sister. I'm the eldest son.
 
 【英語の勉強をする目的】
 - 海外旅行で会話ができるようになりたい
