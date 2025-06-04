@@ -17,3 +17,9 @@
   - My hobby is watching Netflix and running.
 - よろしくお願いします
   - Nice to meet you.
+
+【英語の勉強をする目的】
+- 海外旅行で会話ができるようになりたい
+  - I want to be able to speak English when I travel abroad.
+- 将来、英語でITのお仕事をしたい
+  - I want to work in IT using English in the future.
