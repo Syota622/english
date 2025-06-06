@@ -13,13 +13,17 @@
 - Thank you for today's lesson.: 本日のレッスンありがとうございました。
 
 # question
-- teacher: Any questions?: 質問はありますか？
-- me: Yes, I do. How do I say [単語] in English?: 英語で[単語]をどうやって言うの？
-- me: No, I don't have any questions. Thank you.: いいえ、質問はありません。ありがとうございました。
+- Any questions?: 質問はありますか？
+- Yes, I do. How do I say [単語] in English?: 英語で[単語]をどうやって言うの？
+- No, I don't have any questions. Thank you.: いいえ、質問はありません。ありがとうございました。
 
 # hear
-- teacher: Can you hear me clearly?: 私の声ははっきり聞こえますか？
-- me: Yes, I can.: はい、聞こえます。
+- Can you hear me clearly?: 私の声ははっきり聞こえますか？
+- Yes, I can.: はい、聞こえます。
 
 # wait
 - Please wait for a moment.: 少し待ってください。
+
+# remaining time
+- teacher: We have 10 minutes left.: 10分残っています。
+- 
