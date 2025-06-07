@@ -8,13 +8,13 @@
 - 私の名前はShotaです。Shotaと呼んでください
   - My name is Shota. Please Call me Shota.
 - 私は、29歳です。 
-  - I'm twenty-nine.
+  - I'm twenty-nine years old.
 - 私は日本の東京に住んでます
   - I live in Tokyo, Japan.
 - 私のお仕事は、ITエンジニアで、AWSを使ったインフラ関係の仕事をしてます
   - My job is an IT Engineer, and I work on infrastructure related work using AWS.
 - 私の趣味は、NetFlixを見ることと、ジョギングです。
-  - My hobby is watching Netflix and running.
+  - My hobby is watching Netflix and jogging.
   - I also like studying Programming.
 - 私は妻と一緒に住んでます。
   - I live with my wife.
