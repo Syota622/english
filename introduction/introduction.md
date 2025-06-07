@@ -5,8 +5,8 @@
 - あなたのことを教えてください
   - Tell me about yourself.
 
-- 私の名前はShotaです
-  - My name is Shota.
+- 私の名前はShotaです。Shotaと呼んでください
+  - My name is Shota. Please Call me Shota.
 - 私は、29歳です。 
   - I'm twenty-nine.
 - 私は日本の東京に住んでます
