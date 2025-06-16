@@ -34,7 +34,7 @@
 
 # wait
 - Please wait for a moment.: 
-  - 少し待ってください。
+  - 調べるので、少し待ってください。
 
 # remaining time
 - We have 10 minutes left. What do you want to do?: 

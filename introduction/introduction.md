@@ -22,7 +22,9 @@
   - I have a younger brother and a younger sister. I'm the eldest son.
 
 【英語の勉強をする目的】
-- 海外旅行で会話ができるようになりたい
-  - I want to be able to speak English when I travel abroad.
-- 将来、英語でITのお仕事をしたい
-  - I want to work in IT using English in the future.
+- 海外旅行で英語で会話ができるようになりたい
+  - I want to be able to speak English when traveling abroad.
+- また、将来、英語でITのお仕事をしたいです。
+  - Also, I would like to work in IT in English in the future.
+- 最初は、オンラインで海外のお仕事したいです
+  - At first, I would like to work overseas remotely.
