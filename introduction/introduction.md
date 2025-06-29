@@ -14,7 +14,7 @@
 - 私のお仕事は、ITエンジニアで、AWSを使ったインフラ関係の仕事をしてます
   - My job is an IT Engineer, and I work on infrastructure related work using AWS.
 - 私の趣味は、NetFlixを見ることと、ジョギングです。
-  - My hobby is watching Netflix and jogging.
+  - My hobbies are watching Netflix and jogging.
   - I also like studying Programming.
 - 私は妻と一緒に住んでます。
   - I live with my wife.
